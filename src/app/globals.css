@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.custom-image{
+  background-image: url("/pexels-rostislav-uzunov-5011647.jpg");
+}
